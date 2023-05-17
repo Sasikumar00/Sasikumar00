@@ -9,3 +9,5 @@
 -    Github: You are already there
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: The Earth is round
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
