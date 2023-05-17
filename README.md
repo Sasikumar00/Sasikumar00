@@ -10,4 +10,4 @@
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: The Earth is round
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasikumar00&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasikumar00&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
