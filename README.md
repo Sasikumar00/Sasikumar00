@@ -11,5 +11,5 @@
 - ⚡ Fun fact: HTML is not a programming language
 
 [![Sasikumar's GitHub stats](https://sasikumar00.vercel.app/api?username=Sasikumar00&show_icons=true&theme=midnight-purple)](https://github.com/Sasikumar00/github-readme-stats)
-
-[![Readme Card](https://sasikumar00.vercel.app/api/pin/?username=Sasikumar00&repo=github-readme-stats&theme=midnight-purple)](https://github.com/Sasikumar00/github-readme-stats)
+<!-- 
+[![Readme Card](https://sasikumar00.vercel.app/api/pin/?username=Sasikumar00&repo=github-readme-stats&theme=midnight-purple)](https://github.com/Sasikumar00/github-readme-stats) -->
