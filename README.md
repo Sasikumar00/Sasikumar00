@@ -8,6 +8,6 @@
 -    Instagram: sasikumar_00
 -    Github: You are already there
 -    Linkedin:  sasikumarm00
-- ⚡ Fun fact: The Earth is round
+- ⚡ Fun fact: HTML is not a programming language
 
 [![Sasikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasikumar00&show_icons=true&theme=midnight-purple)](https://github.com/Sasikumar00/github-readme-stats)
