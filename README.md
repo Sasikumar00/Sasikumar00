@@ -10,6 +10,11 @@
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: HTML is not a programming language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
-[![Readme Card](https://sasikumar00.vercel.app/api/pin/?username=Sasikumar00&repo=github-readme-stats&theme=midnight-purple)](https://github.com/Sasikumar00/github-readme-stats) -->
+### PROGRAMMING LANGUAGES:
+### 1) Python
+### 2) JavaScript
+### 3) C++
+
+### Web Development:
+### 1) MERN stack
+###) 2) Django/Django REST Framework
