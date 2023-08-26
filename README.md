@@ -11,10 +11,10 @@
 - ⚡ Fun fact: HTML is not a programming language
 
 ### PROGRAMMING LANGUAGES:
-### 1) Python
-### 2) JavaScript
-### 3) C++
+1) Python
+2) JavaScript
+3) C++
 
 ### Web Development:
-### 1) MERN stack
-###) 2) Django/Django REST Framework
+1) MERN stack
+2) Django/Django REST Framework
