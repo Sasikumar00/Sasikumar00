@@ -16,11 +16,15 @@
 3) C++
 
 ### Full-Stack Development:
-1) [![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs)](https://skillicons.dev)
+1) MERN Stack
 2) Django/Django REST Framework
 
 ### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,reactjs,mongodb,python,django,tailwindcss,css,wasm)](https://skillicons.dev)
+#### Front-End:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss)](https://skillicons.dev)
 
+### Back-End:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,python,django)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasikumar00&layout=compact)](https://github.com/Sasikumar00/github-readme-stats)
+### Database:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
