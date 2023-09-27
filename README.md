@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with learning something together
 - 💬 Ask me about anything related to Web Development
 - 📫 How to reach me: 
--    Instagram: sasikumar_00
+-  ![InstagramLogoGIF (2)](https://github.com/Sasikumar00/Sasikumar00/assets/72329300/9ab45fbb-524d-4f61-8150-ce415f6ec6af)  Instagram: sasikumar_00
 -    Github: You are already there
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: HTML is not a programming language
