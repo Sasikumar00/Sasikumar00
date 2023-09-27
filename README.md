@@ -21,10 +21,10 @@
 
 ### Technologies:
 #### Front-End:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,figma)](https://skillicons.dev)
 
 ### Back-End:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,python,django,flask)](https://skillicons.dev)
 
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
