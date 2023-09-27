@@ -28,3 +28,6 @@
 
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
+
+### Miscellaneous:
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,dart,docker,firebase,git,postman,pug,vercel,vscode)](https://skillicons.dev)
