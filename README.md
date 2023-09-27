@@ -23,11 +23,11 @@
 #### Front-End:
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,tailwindcss)](https://skillicons.dev)
 
-### Back-End:
+#### Back-End:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,python,django,flask)](https://skillicons.dev)
 
-### Database:
+#### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
-### Miscellaneous:
+#### Miscellaneous:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,dart,docker,firebase,git,postman,pug,vercel,vscode)](https://skillicons.dev)
