@@ -15,8 +15,8 @@
 2) JavaScript
 3) C++
 
-### Web Development:
-1) MERN stack
+### Full-Stack Development:
+1) [![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs)](https://skillicons.dev)
 2) Django/Django REST Framework
 
 ### Technologies:
