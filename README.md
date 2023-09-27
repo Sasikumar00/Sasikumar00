@@ -18,3 +18,6 @@
 ### Web Development:
 1) MERN stack
 2) Django/Django REST Framework
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasikumar00&layout=compact)](https://github.com/Sasikumar00/github-readme-stats)
