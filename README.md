@@ -20,7 +20,7 @@
 2) Django/Django REST Framework
 
 ### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,reactjs,mongodb,python,django,tailwindcss,css,wasm)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasikumar00&layout=compact)](https://github.com/Sasikumar00/github-readme-stats)
