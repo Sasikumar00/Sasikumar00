@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
 -    Instagram: sasikumar_00
 -    Github: You are already there
--  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)  Linkedin:  sasikumarm00
+-    Linkedin:  sasikumarm00
 - ⚡ Fun fact: HTML is not a programming language
 
 ### PROGRAMMING LANGUAGES:
