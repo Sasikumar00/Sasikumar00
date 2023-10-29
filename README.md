@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,python,django,flask,firebase)](https://skillicons.dev)
 
 #### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sql,mysql,sqlite)](https://skillicons.dev)
 
 #### Miscellaneous:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,dart,docker,firebase,git,postman,pug,vercel,vscode)](https://skillicons.dev)
