@@ -19,6 +19,11 @@
 1) MERN Stack
 2) Django/Django REST Framework
 
+### Problem Solving:
+1) Data Structures and Algorithms
+2) [HackerRank](https://www.hackerrank.com/profile/sasikumarworks)
+3) [Geeks For Geeks](https://auth.geeksforgeeks.org/user/sasikumarworks)
+
 ### Technologies:
 #### Front-End:
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,tailwindcss)](https://skillicons.dev)
