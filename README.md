@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,tailwindcss)](https://skillicons.dev)
 
 #### Back-End:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,python,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,python,django,flask,firebase)](https://skillicons.dev)
 
 #### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
