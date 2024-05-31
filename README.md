@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on MERN and Django projects
-- 🌱 I’m currently learning NextJS and NestJS
+- 🌱 I’m currently learning LangChain, LLMs, Vector Databases
 - 🤔 I’m looking for help with learning something together
 - 💬 Ask me about anything related to Web Development
 - 📫 How to reach me: 
--    Instagram: sasikumar_00
+-    Instagram: imsasikumarm
 -    Github: You are already there
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: HTML is not a programming language
