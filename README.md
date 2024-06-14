@@ -10,8 +10,8 @@
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: You become what you believe in
 
+- [![Sasikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasikumar00)](https://github.com/sasikumar00/github-readme-stats)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar00&langs_count=8)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasikumar00)](https://github.com/sasikumar00/github-readme-stats)
 
 ### PROGRAMMING LANGUAGES:
 1) Python
