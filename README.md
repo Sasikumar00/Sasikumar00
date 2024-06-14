@@ -10,7 +10,8 @@
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: HTML is not a programming language
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasikumar00)](https://github.com/anuraghazra/github-readme-stats)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar00&langs_count=8)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasikumar00)](https://github.com/sasikumar00/github-readme-stats)
 
 ### PROGRAMMING LANGUAGES:
 1) Python
