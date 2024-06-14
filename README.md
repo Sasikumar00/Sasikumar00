@@ -8,7 +8,7 @@
 -    Instagram: imsasikumarm
 -    Github: You are already there
 -    Linkedin:  sasikumarm00
-- ⚡ Fun fact: HTML is not a programming language
+- ⚡ Fun fact: You become what you believe in
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar00&langs_count=8)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasikumar00)](https://github.com/sasikumar00/github-readme-stats)
