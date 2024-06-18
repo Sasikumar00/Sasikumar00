@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on MERN and Django projects
 - 🌱 I’m currently learning LangChain, LLMs, Vector Databases
-- 🤔 I’m looking for help with learning something together
+- 🤔 I’m looking for help build something together
 - 💬 Ask me about anything related to Web Development
 - 📫 How to reach me: 
 -    Instagram: imsasikumarm
