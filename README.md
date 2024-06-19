@@ -19,9 +19,10 @@
 4) [CodeChef](https://www.codechef.com/users/sasikumar00)
 
 ### PROGRAMMING LANGUAGES:
-1) Python
-2) JavaScript
+1) TypeScript
+2) Python
 3) C++
+4) JS
 
 ### Full-Stack Development:
 1) MERN Stack
@@ -38,4 +39,4 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
 #### Miscellaneous:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,dart,docker,firebase,git,postman,pug,vercel,vscode,pinecone,langchain,AI,ML)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,dart,docker,firebase,git,postman,pug,vercel,vscode,redis)](https://skillicons.dev)
