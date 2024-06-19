@@ -12,6 +12,12 @@
 - [![Sasikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasikumar00)](https://github.com/sasikumar00/github-readme-stats)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar00&langs_count=8)
 
+### Problem Solving:
+1) [HackerRank](https://www.hackerrank.com/profile/sasikumarworks)
+2) [Leetcode](https://leetcode.com/u/Sasikumar_M/)
+3) [CodeForces](https://codeforces.com/profile/sasikumar_m)
+4) [CodeChef](https://www.codechef.com/users/sasikumar00)
+
 ### PROGRAMMING LANGUAGES:
 1) Python
 2) JavaScript
@@ -20,13 +26,6 @@
 ### Full-Stack Development:
 1) MERN Stack
 2) Django/Django REST Framework
-
-### Problem Solving:
-1) Data Structures and Algorithms
-2) [HackerRank](https://www.hackerrank.com/profile/sasikumarworks)
-3) [Leetcode](https://leetcode.com/u/Sasikumar_M/)
-4) [CodeForces](https://codeforces.com/profile/sasikumar_m)
-5) [CodeChef](https://www.codechef.com/users/sasikumar00)
 
 ### Technologies:
 #### Front-End:
