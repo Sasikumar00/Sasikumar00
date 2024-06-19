@@ -6,7 +6,6 @@
 - 💬 Ask me about anything related to Web Development
 - 📫 How to reach me: 
 -    Instagram: imsasikumarm
--    Github: You are already there
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: You become what you believe in
 
