@@ -25,7 +25,9 @@
 ### Problem Solving:
 1) Data Structures and Algorithms
 2) [HackerRank](https://www.hackerrank.com/profile/sasikumarworks)
-3) [Geeks For Geeks](https://auth.geeksforgeeks.org/user/sasikumarworks)
+3) [Leetcode](https://leetcode.com/u/Sasikumar_M/)
+4) [CodeForces](https://codeforces.com/profile/sasikumar_m)
+5) [CodeChef](https://www.codechef.com/users/sasikumar00)
 
 ### Technologies:
 #### Front-End:
