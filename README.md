@@ -19,7 +19,7 @@
 4) [CodeChef](https://www.codechef.com/users/sasikumar00)
 
 ### PROGRAMMING LANGUAGES:
-1) TypeScript[![typescript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+1) TypeScript
 2) Python
 3) C++
 4) JS
