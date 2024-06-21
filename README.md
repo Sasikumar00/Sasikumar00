@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning LangChain, LLMs, Vector Databases
 - 🤔 I’m looking for help build something together
 - 💬 Ask me about anything related to Web Development
-- 📫 How to reach me: 
+- 📫 How to reach me: sasikumarworks@gmail.com
 -    Instagram: imsasikumarm
 -    Linkedin:  sasikumarm00
 - ⚡ Fun fact: You become what you believe in
