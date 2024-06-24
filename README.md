@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN and Django projects
+- 🔭 I’m currently working on MERN and Django/DRF projects
 - 🌱 I’m currently learning LangChain, LLMs, Vector Databases
 - 🤔 I’m looking for help build something together
 - 💬 Ask me about anything related to Web Development
