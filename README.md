@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on MERN and Django/DRF projects
-- 🌱 I’m currently learning lLMs, Message Brokers, Microservices Architecture
+- 🌱 I’m currently learning LLMs, Message Brokers, Microservices Architecture
 - 🤔 I’m looking for help build something together
 - 💬 Ask me about anything related to Web Development
 - 📫 How to reach me: sasikumarworks@gmail.com
